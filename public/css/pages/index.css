@@ -1,0 +1,28 @@
+
+/*这部分内容是对bootstrap的重置*/
+*{
+	margin:0;
+	padding:0
+}
+.navbar{
+	border-radius: 0;
+}
+.alert-info{
+	margin:0 30px;
+}
+.btn-info{
+	width:100px;
+	height:50px;
+	margin:10px 30px;
+}
+.table-bordered{
+	margin:0 auto;
+	text-align:center;
+}
+.table-bordered thead th{
+	text-align:center;
+}
+/*#update #updateModal{
+	text-align: left;
+}*/
+/*页面级别*/
